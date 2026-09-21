@@ -1,0 +1,26 @@
+State,SD_front,SD_left,Optimal_Value,Optimal_Action,Q(Move-Forward),Q(Slight-Right-Turn),Q(Sharp-Right-Turn),Q(Slight-Left-Turn),Data_Most_Common_Action,Visits
+Far | Far,Far,Far,61.267623,Move-Forward,61.267624,,,,Move-Forward,321
+Far | Mid,Far,Mid,60.7007,Move-Forward,60.700701,,,,Move-Forward,174
+Mid | Mid,Mid,Mid,60.44436,Move-Forward,60.444361,,,,Move-Forward,362
+Mid | Far,Mid,Far,59.250103,Move-Forward,59.250104,,,,Move-Forward,212
+Near | Mid,Near,Mid,59.039341,Move-Forward,59.039342,,58.35233,,Sharp-Right-Turn,153
+Mid | Very far,Mid,Very far,58.725205,Move-Forward,58.725206,,,57.1658,Move-Forward,252
+Near | Very far,Near,Very far,58.688109,Move-Forward,58.68811,,56.514251,57.001228,Sharp-Right-Turn,223
+Far | Very far,Far,Very far,58.37831,Move-Forward,58.378311,,,56.929978,Slight-Left-Turn,120
+Far | Near,Far,Near,57.980964,Move-Forward,57.980965,56.914238,,,Move-Forward,250
+Near | Far,Near,Far,56.184365,Move-Forward,56.184365,,55.890507,,Sharp-Right-Turn,151
+Very far | Mid,Very far,Mid,55.226819,Move-Forward,55.22682,,,,Move-Forward,252
+Mid | Near,Mid,Near,53.834271,Move-Forward,53.834272,53.411043,,,Move-Forward,166
+Very far | Very far,Very far,Very far,53.55377,Move-Forward,53.553771,,,52.110316,Slight-Left-Turn,191
+Very near | Mid,Very near,Mid,52.31563,Sharp-Right-Turn,,,52.315631,,Sharp-Right-Turn,143
+Very far | Far,Very far,Far,52.228914,Move-Forward,52.228915,,,,Move-Forward,127
+Very far | Near,Very far,Near,52.072134,Move-Forward,52.072135,47.068399,,,Move-Forward,203
+Very near | Very far,Very near,Very far,51.971644,Sharp-Right-Turn,,,51.971645,,Sharp-Right-Turn,310
+Very near | Far,Very near,Far,51.789282,Sharp-Right-Turn,,,51.789283,,Sharp-Right-Turn,282
+Near | Near,Near,Near,47.279181,Move-Forward,47.279182,46.706389,46.855662,,Sharp-Right-Turn,276
+Very near | Near,Very near,Near,44.595027,Sharp-Right-Turn,,,44.595028,,Sharp-Right-Turn,212
+Far | Very near,Far,Very near,40.07621,Slight-Right-Turn,,40.076211,,,Slight-Right-Turn,225
+Very far | Very near,Very far,Very near,37.026599,Slight-Right-Turn,,37.0266,,,Slight-Right-Turn,320
+Mid | Very near,Mid,Very near,36.5047,Slight-Right-Turn,,36.504701,,,Slight-Right-Turn,105
+Near | Very near,Near,Very near,32.345537,Sharp-Right-Turn,,31.594467,32.345538,,Sharp-Right-Turn,284
+Very near | Very near,Very near,Very near,27.193603,Sharp-Right-Turn,,,27.193604,,Sharp-Right-Turn,141
